@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [solution](https://www.frontendmentor.io/challenges/base-apparel-coming-soon-page-5d46b47f8db8a7063f9331a0/hub)
 - Live Site URL: [live site](https://ishmaelsealey.github.io/fem-coming-soon-master/)
 
 ## My process
@@ -48,7 +48,8 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+Doing this project, I learnt that I must cater for the mobile and desktop designs in my plan before I begin coding.
+Additionally, I should decide on how I will get my page to layout as the design portrays (whether I use grid, flexbox or otherwise) before I add html elements to the document.
 
 ### Continued development
 
